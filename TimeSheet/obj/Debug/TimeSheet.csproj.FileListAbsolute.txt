@@ -1,0 +1,12 @@
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe.config
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\bin\Debug\TimeSheet.pdb
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.MainForm.resources
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.Properties.Resources.resources
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.GenerateResource.cache
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.exe
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.Form2.resources
+C:\Users\Aaron Patterson\source\repos\TimeSheet\TimeSheet\obj\Debug\TimeSheet.Form3.resources
